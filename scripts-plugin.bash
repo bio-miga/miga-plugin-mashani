@@ -1,6 +1,6 @@
 #!/bin/bash
 
-if [[ $SCRIPT == "distances.bash" ]] ; then
+if [[ $SCRIPT == "distances" ]] ; then
   echo Script: $SCRIPT
   echo Plugin: MashANI
   
